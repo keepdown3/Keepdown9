@@ -8,6 +8,7 @@
 ### _➥ [Antilink](https://github.com/souravkl11/raganork-md/wiki/Antilink)_
 ### _➥ [Alive message](https://github.com/souravkl11/raganork-md/wiki/alive)_
 ### _➥ [Poll](https://github.com/souravkl11/raganork-md/wiki/poll)_
+### _➥ [Pm Blocker](https://github.com/souravkl11/raganork-md/wiki/pmb)_
 ### _➥ [Change mode (public/private)](https://github.com/souravkl11/raganork-md/wiki/Change-mode)_
 ### _➥ [Disable bot in selected groups](https://github.com/souravkl11/raganork-md/wiki/Block-chat)_
 ### _➥ [Change language](https://github.com/souravkl11/raganork-md/wiki/Change-Language)_
