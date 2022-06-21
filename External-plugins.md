@@ -6,3 +6,6 @@
 ### _➥ [Admin Pack - Admins can use admin commands without sudo](https://gist.github.com/souravkl11/06ed66a2cacdd53f09465d7babc65f4e)_
 ### _➥ [Joke (Malayalam)](https://gist.github.com/souravkl11/971495b95971d76947e8cec73fbaad66)_
 ### _➥ [Reverse](https://gist.github.com/souravkl11/ac2a8af711cbc8c1403460411bec8d58)_
+### _➥ [Status Saver](https://gist.github.com/souravkl11/cf134ef5beb4f2c735ad60eff9bdbd8e)_
+### _➥ [Image editor](https://gist.github.com/mask-sir/bd3649681241441a2821b16db135ab8e)_
+
