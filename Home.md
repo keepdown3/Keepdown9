@@ -13,5 +13,6 @@
 ### _➥ [Change mode (public/private)](https://github.com/souravkl11/raganork-md/wiki/Change-mode)_
 ### _➥ [Disable bot in selected groups](https://github.com/souravkl11/raganork-md/wiki/Block-chat)_
 ### _➥ [Change language](https://github.com/souravkl11/raganork-md/wiki/Change-Language)_
+### _➥ [Change prefix/Handlers](https://github.com/souravkl11/raganork-md/wiki/Change-handlers)_
 ### _➥ [Change Menu Bot name etc.](https://github.com/souravkl11/raganork-md/wiki/bot-info)_
 ### _➥ [Bgm bot](https://github.com/souravkl11/raganork-md/wiki/bgm)_
