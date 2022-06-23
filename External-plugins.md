@@ -12,3 +12,4 @@
 ### _➥ [Random status](https://gist.github.com/mask-sir/7039ba28830665af850441ed94c115d2)_
 ### _➥ [Automatic status sender](https://gist.githubusercontent.com/souravkl11/7ba617d50196c809d0d1afeb96d6a494/)_
 ### _➥ [Rdmore](https://gist.github.com/mask-sir/90d61301c2ec93acedc414e7c9c52277)_
+### _➥ [Sample plugin](https://gist.github.com/souravkl11/0091caf6c86eedae11c88cf98734707a)_
