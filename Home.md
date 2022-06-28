@@ -1,4 +1,4 @@
-# _➥ Welcome to the Raganork Documentation_
+# _➥ Welcome to the Raganork WiKi_
 ### _Most of the answers for FAQs are given here. Use a translator if you don't understand and don't repeat asking these ;/_
 ## _➥ [External plugins](https://github.com/souravkl11/raganork-md/wiki/External-plugins)_
 ## _• How to set up:_
@@ -16,3 +16,5 @@
 ### _➥ [Change prefix/Handlers](https://github.com/souravkl11/raganork-md/wiki/Change-handlers)_
 ### _➥ [Change Menu Bot name etc.](https://github.com/souravkl11/raganork-md/wiki/bot-info)_
 ### _➥ [Bgm bot](https://github.com/souravkl11/raganork-md/wiki/bgm)_
+
+# _[Change Log](https://github.com/souravkl11/raganork-md/wiki/changelog)_
