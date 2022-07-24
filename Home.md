@@ -16,5 +16,6 @@
 ### _➥ [Change prefix/Handlers](https://github.com/souravkl11/raganork-md/wiki/Change-handlers)_
 ### _➥ [Change Menu Bot name etc.](https://github.com/souravkl11/raganork-md/wiki/bot-info)_
 ### _➥ [Bgm bot](https://github.com/souravkl11/raganork-md/wiki/bgm)_
+### _➥ [Disable 'online' status every time](https://github.com/souravkl11/raganork-md/wiki/Disable-showing-'online'-every-time)_
 
 # _[Change Log](https://github.com/souravkl11/raganork-md/wiki/changelog)_
