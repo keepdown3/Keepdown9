@@ -17,5 +17,6 @@
 ### _➥ [Change Menu Bot name etc.](https://github.com/souravkl11/raganork-md/wiki/bot-info)_
 ### _➥ [Bgm bot](https://github.com/souravkl11/raganork-md/wiki/bgm)_
 ### _➥ [Disable 'online' status every time](https://github.com/souravkl11/raganork-md/wiki/Disable-showing-'online'-every-time)_
+### _➥ [Disable error messages](https://github.com/souravkl11/raganork-md/wiki/No-log)_
 
 # _[Change Log](https://github.com/souravkl11/raganork-md/wiki/changelog)_
