@@ -1,6 +1,7 @@
 ## _➥ Plugins can be installed by using `.install <link>`. Use the links below_
 ### _➥ [Auto BGM](https://gist.github.com/souravkl11/7fb7abe0d55312c646bd0d3c56f48e63)_
 ### _➥ [Auto Sticker](https://gist.github.com/souravkl11/0c6af5ed5ced1e2a07fb9f2f847d7707)_
+### _➥ [Group Link automatic delete](https://gist.github.com/souravkl11/502776f8fd968b1cab61fa828acbe905)_
 ### _➥ [Mention audio](https://gist.github.com/souravkl11/4c5c4474abf19f4f8bba23f2c1a7fb18)_
 ### _➥ [fd (forward)](https://gist.github.com/souravkl11/30c39e44fe70e7545e397c2c2ae2fae0)_
 ### _➥ [Sudo/delsudo](https://gist.github.com/souravkl11/bc74f8ee25f894bdb09f120846e1c25d)_
