@@ -1,0 +1,1 @@
+# _This feature automatically rejects incoming WhatsApp calls. For this, use: `setvar REJECT_CALLS:true`_
