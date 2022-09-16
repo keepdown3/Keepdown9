@@ -1,4 +1,5 @@
 ## _➥ Plugins can be installed by using `.install <link>`. Use the links below_
+### _➥ [Autobio (new)](https://gist.github.com/souravkl11/9d4bc508167c2aca2a637eb54be6000b)_
 ### _➥ [Auto BGM](https://gist.github.com/souravkl11/7fb7abe0d55312c646bd0d3c56f48e63)_
 ### _➥ [Auto Sticker](https://gist.github.com/souravkl11/0c6af5ed5ced1e2a07fb9f2f847d7707)_
 ### _➥ [Group Link automatic delete](https://gist.github.com/souravkl11/502776f8fd968b1cab61fa828acbe905)_
